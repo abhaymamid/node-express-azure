@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Windows-2016'
+  vmImage: 'Windows-latest'
 
 steps:
 - task: NodeTool@0
