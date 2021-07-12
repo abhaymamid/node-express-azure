@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/azuremamid0869/NodeExpreeDemo/_apis/build/status/abhaymamid.node-express-azure?branchName=master)](https://dev.azure.com/azuremamid0869/NodeExpreeDemo/_build/latest?definitionId=25&branchName=master)
-
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
